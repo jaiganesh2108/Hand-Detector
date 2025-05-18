@@ -1,5 +1,6 @@
 <h1>Hand Dectection Using Python</h1>
 <p>A real-time hand detection and tracking application using Python, OpenCV, and MediaPipe. This project can be used as a foundation for gesture control systems, sign language recognition, or hand-based interactions in games and applications.</p>
+
 ---
 
 ## 🚀 Features
